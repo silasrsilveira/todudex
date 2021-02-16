@@ -1,5 +1,7 @@
 # tofudex
 
+## Projeto criado através da API no site: https://pokeapi.co/
+
 ## Project setup
 ```
 npm install
